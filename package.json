@@ -1,0 +1,15 @@
+{
+    "name": "sit323-2025-prac5d",
+    "version": "1.0.0",
+    "description": "A simple Express microservice for SIT323 Task 5.2D",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Adithi Rajesh Nair",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^5.1.0"
+    }
+  }
+  
